@@ -1,0 +1,47 @@
+.Home_banner
+{
+	width: 100%;
+	margin-top: 32px;
+	margin-bottom: 32px;
+	padding-top: 128px;
+	padding-bottom:128px;
+
+	
+	display: flex;
+
+}
+.banner_frame
+{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.store_frame
+{
+	margin: 8px;
+	margin-bottom: 124px;
+}
+
+.store
+{
+	max-width: 1820px;
+	width: 100%;
+	max-width: 2100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.article
+{
+	width: 620px;
+	height: 620px;
+	background-color: #ED2034;
+	margin: 8px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
